@@ -56,7 +56,7 @@ df['cluster'] = kmeans.labels_
 
 * Respiratory admissions vary significantly across pollution clusters.
 * Mask usage rates don’t strongly correlate with reduced admissions in this dataset.
-* Some regions with high pollution maintain lower admissions—factors like healthcare access or policy may be at play.
+* Some regions with high pollution maintain lower admissions factors like healthcare access or policy may be at play.
 
 ---
 
