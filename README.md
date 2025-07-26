@@ -58,4 +58,6 @@ df['cluster'] = kmeans.labels_
 * Mask usage rates don’t strongly correlate with reduced admissions in this dataset.
 * Some regions with high pollution maintain lower admissions—factors like healthcare access or policy may be at play.
 
+---
 
+Read my Article on Linkedln : https://www.linkedin.com/pulse/data-analysis-air-quality-health-closer-look-trends-ediomo-etesin-igzof
